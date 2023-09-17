@@ -1,5 +1,6 @@
 ## TODO: import all necessary packages and functions
-
+**add my name: Chau
+**project details: bikeshare data
 
 ## Filenames
 chicago = 'chicago.csv'
